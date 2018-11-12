@@ -1,0 +1,14 @@
+{
+  "require": {
+    "grpc/grpc": "*",
+    "google/protobuf": "^v3.5.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "GrpcClient\\": "src/"
+    },
+    "classmap": [
+      "src/proto/"
+    ]
+  }
+}
