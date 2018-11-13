@@ -12,6 +12,8 @@
 
 golang中文入门教程： https://golangcaff.com/docs/the-way-to-go
 
+golang中文文档：http://doc.oschina.net/grpc
+
 grpc-go服务端文档：https://grpc.io/docs/quickstart/go.html
 
 protocol-buffers文档：https://developers.google.com/protocol-buffers/
