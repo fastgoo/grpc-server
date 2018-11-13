@@ -1,7 +1,6 @@
 {
   "require": {
-    "grpc/grpc": "*",
-    "google/protobuf": "^v3.5.0"
+    "grpc/grpc": "*"
   },
   "autoload": {
     "psr-4": {
