@@ -18,14 +18,14 @@ protocol-buffers文档：https://developers.google.com/protocol-buffers/
 
 php-grpc客户端文档：https://grpc.io/docs/quickstart/php.html
 
-### 入门环境安装
+## 入门环境安装
 1. 安装golang环境：https://golangcaff.com/docs/the-way-to-go/install-go-on-linux/8
 2. 安装protoc环境：https://www.cnblogs.com/luoxn28/p/5303517.html
 3. 安装grpc-go环境：https://www.jianshu.com/p/dba4c7a6d608
 4. 安装php环境、grpc扩展、grpc_php_plugin插件：https://grpc.io/docs/quickstart/php.html
 
 
-### grpc服务端
+## grpc服务端
 
 * **生成pb.go文件**
 
@@ -106,7 +106,7 @@ func main() {
 ```
 
 
-### grpc php客户端
+## grpc php客户端
 * 生成php代码
 
 ```bash
